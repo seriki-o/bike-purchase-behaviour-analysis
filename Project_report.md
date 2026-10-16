@@ -154,6 +154,8 @@ The Pacific region recorded the highest reported regional purchase rate, at appr
 
 These measures answer different questions. Buyer share indicates where existing buyers are concentrated, while regional purchase rate indicates the proportion of customers in a region who purchased a bike.
 
+![Regional Purchase Analysis](images/04_regional_analysis.png)
+
 ![Regional Purchase Analysis](images/05_regional_analysis.png)
 
 *Figure 2: Regional comparison of customer and bike purchasing patterns.*
