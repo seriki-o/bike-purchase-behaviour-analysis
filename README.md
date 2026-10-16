@@ -46,7 +46,7 @@ Interactive slicers allow users to explore the data by marital status, bike purc
 - **Purchase distribution:** Of 1,000 customer records, 481 were bike buyers (48.1%) and 519 were non-buyers (51.9%).
 - **Income differences:** Average income was $57,963 among buyers and $54,875 among non-buyers.
 - **Age differences:** Average age was 43 among buyers and 45 among non-buyers.
-- **Age and income segment:** Middle-aged customers with moderate incomes accounted for 46.1% of all bike buyers.
+- **Age and income segment:** Middle-aged customers with moderate incomes accounted for 53.01% of all bike buyers.
 - **Regional distribution:** North America accounted for 45.74% of all bike buyers, Europe 30.77%, and the Pacific region 23.49%.
 - **Regional purchase rate:** The Pacific region had a reported purchase rate of approximately 57.9%.
 - **Vehicle ownership:** Customers owning zero or one car accounted for approximately 62.99% of all bike buyers.
