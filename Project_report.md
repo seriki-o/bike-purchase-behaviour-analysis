@@ -222,7 +222,7 @@ Several limitations should be considered when interpreting the findings:
 
 This project used Microsoft Excel to prepare customer data, create demographic and income categories, analyse bike purchasing patterns, and develop an interactive dashboard.
 
-The analysis found that 48.1% of the 1,000 customer records represented bike buyers. Buyers had a higher average income and a lower average age than non-buyers. The middle-aged, moderate-income segment accounted for 46.1% of all bike buyers, while customers owning zero or one car accounted for approximately 62.99% of buyers. Regional analysis also showed that North America contributed the largest share of buyers, whereas the Pacific region had the highest reported regional purchase rate.
+The analysis found that 48.1% of the 1,000 customer records represented bike buyers. Buyers had a higher average income and a lower average age than non-buyers. The middle-aged, moderate-income segment accounted for 53.01% of all bike buyers, while customers owning zero or one car accounted for approximately 62.99% of buyers. Regional analysis also showed that North America contributed the largest share of buyers, whereas the Pacific region had the highest reported regional purchase rate.
 
 These findings provide a starting point for customer segmentation and marketing decisions. Calculating purchase rates within each customer group and testing targeted strategies would help determine which patterns offer the strongest opportunities for the business.
 
